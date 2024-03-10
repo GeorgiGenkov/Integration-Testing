@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kliftqM1+Q/ddtAIYY4SStQWKmOf7UIM+JiLGQWYLlTHBRFMx9f9Qyf2otd9fzTzMFEuBLStiBAJs7O3SDC5MQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GitHub\\Integration-Testing\\TestingGithubAPI-UsingRestSharp\\RestSharpServices\\RestSharpServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Georgi\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Georgi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Georgi\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Georgi\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
