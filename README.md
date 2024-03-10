@@ -5,17 +5,17 @@ Integration testing is a software testing technique that focuses on verifying th
 Performing integration testing on several different applications using variety of QA testing frameworks. 
 
 ### ContactsConsoleAPI:
-Application with console UI for adding, updating, searching and deleting contacts. Each contact has id, first name, last name, address, phone number, email, gender, contact ulid.
-Build using:
+Application with console UI for adding, updating, searching and deleting contacts. Each contact has id, first name, last name, address, phone number, email, gender, contact ulid. <br>
+Build with:
 - C#
-<br>
-Integration testing using:
+
+Integration testing with:
 - NUnit
 
 ### ZooConsoleAPI:
-Application with console UI for adding, updating, searching and deleting animals. Each animal has id, catalog number, name, breed, type, age, gender, health status.
-Build using:
+Application with console UI for adding, updating, searching and deleting animals. Each animal has id, catalog number, name, breed, type, age, gender, health status. <br>
+Build with:
 - C#
-<br>
-Integration testing using:
+
+Integration testing with:
 - NUnit
