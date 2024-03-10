@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\GitHub\\Integration-Testing\\ZooConsoleAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9FD495A-1DFB-4E1A-ACFE-ECDF3DBF542B}|ZooConsoleAPI\\ZooConsoleAPI.csproj|d:\\projects\\github\\integration-testing\\zooconsoleapi\\zooconsoleapi\\data\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FD495A-1DFB-4E1A-ACFE-ECDF3DBF542B}|ZooConsoleAPI\\ZooConsoleAPI.csproj|solutionrelative:zooconsoleapi\\data\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2AA0AD1D-841B-4D71-ABBD-D33EB597C36B}|ZooConsoleAPI.IntegrationTests.NUnit\\ZooConsoleAPI.IntegrationTests.NUnit.csproj|d:\\projects\\github\\integration-testing\\zooconsoleapi\\zooconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AA0AD1D-841B-4D71-ABBD-D33EB597C36B}|ZooConsoleAPI.IntegrationTests.NUnit\\ZooConsoleAPI.IntegrationTests.NUnit.csproj|solutionrelative:zooconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\ZooConsoleAPI\\ZooConsoleAPI\\Data\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "ZooConsoleAPI\\Data\\Models\\Animal.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\Integration-Testing\\ZooConsoleAPI\\ZooConsoleAPI\\Data\\Models\\Animal.cs",
+              "RelativeToolTip": "ZooConsoleAPI\\Data\\Models\\Animal.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:39:29.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IntegrationTests.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\ZooConsoleAPI\\ZooConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
               "RelativeDocumentMoniker": "ZooConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
               "ToolTip": "D:\\Projects\\GitHub\\Integration-Testing\\ZooConsoleAPI\\ZooConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
               "RelativeToolTip": "ZooConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T09:16:54.011Z",
               "EditorCaption": ""

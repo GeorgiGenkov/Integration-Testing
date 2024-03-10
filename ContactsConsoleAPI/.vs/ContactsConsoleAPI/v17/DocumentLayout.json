@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\GitHub\\Integration-Testing\\ContactsConsoleAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}|ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj|d:\\projects\\github\\integration-testing\\contactsconsoleapi\\contactsconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}|ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj|solutionrelative:contactsconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5FA008F-3B52-46C5-9286-F63A1665BDCB}|ContactsConsoleAPI\\ContactsConsoleAPI.csproj|d:\\projects\\github\\integration-testing\\contactsconsoleapi\\contactsconsoleapi\\data\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FA008F-3B52-46C5-9286-F63A1665BDCB}|ContactsConsoleAPI\\ContactsConsoleAPI.csproj|solutionrelative:contactsconsoleapi\\data\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5FA008F-3B52-46C5-9286-F63A1665BDCB}|ContactsConsoleAPI\\ContactsConsoleAPI.csproj|d:\\projects\\github\\integration-testing\\contactsconsoleapi\\contactsconsoleapi\\business\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5FA008F-3B52-46C5-9286-F63A1665BDCB}|ContactsConsoleAPI\\ContactsConsoleAPI.csproj|solutionrelative:contactsconsoleapi\\business\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}|ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj|d:\\projects\\github\\integration-testing\\contactsconsoleapi\\contactsconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}|ContactsConsoleAPI.IntegrationTests.NUnit\\ContactsConsoleAPI.IntegrationTests.NUnit.csproj|solutionrelative:contactsconsoleapi.integrationtests.nunit\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\ContactsConsoleAPI\\ContactsConsoleAPI\\Data\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactsConsoleAPI\\Data\\Models\\Contact.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\Integration-Testing\\ContactsConsoleAPI\\ContactsConsoleAPI\\Data\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactsConsoleAPI\\Data\\Models\\Contact.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:29:51.504Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,20 +45,20 @@
               "RelativeDocumentMoniker": "ContactsConsoleAPI\\Business\\ContactManager.cs",
               "ToolTip": "D:\\Projects\\GitHub\\Integration-Testing\\ContactsConsoleAPI\\ContactsConsoleAPI\\Business\\ContactManager.cs",
               "RelativeToolTip": "ContactsConsoleAPI\\Business\\ContactManager.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAUwGgAAABAAAAA",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAGgAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T19:12:23.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IntegrationTests.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
               "RelativeDocumentMoniker": "ContactsConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
               "ToolTip": "D:\\Projects\\GitHub\\Integration-Testing\\ContactsConsoleAPI\\ContactsConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
               "RelativeToolTip": "ContactsConsoleAPI.IntegrationTests.NUnit\\IntegrationTests.cs",
-              "ViewState": "AQIAAIgBAAAAAAAAAAAqwIwBAAAEAAAA",
+              "ViewState": "AQIAAIEBAAAAAAAAAAAIwIwBAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T19:08:55.607Z",
               "EditorCaption": ""

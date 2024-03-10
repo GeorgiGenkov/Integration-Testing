@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZooConsoleAPI.IntegrationTests.NUnit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d71c63c54b05c84e4c0a0080e47ae224dd1234f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6691d7627353484bb0a3efc9589b88c260d7d95")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZooConsoleAPI.IntegrationTests.NUnit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZooConsoleAPI.IntegrationTests.NUnit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
