@@ -13,8 +13,8 @@ namespace TestGitHubApi
     {
         private GitHubApiClient client;
         private static string repo;
-        private static string usernameGitHub = "your_username";
-        private static string tokenGitHub = "your_token";
+		private static string usernameGitHub = "replace_with_your_username";
+		private static string tokenGitHub = "replace_with_your_github_token";
         private static int lastCreatedIssueNumber;
 		private static int lastCreatedCommentId;
 
@@ -116,13 +116,13 @@ namespace TestGitHubApi
 			var issue = client.CreateIssue(repo, title, body);
 
 			// Assert
-			Assert.Multiple(() => 
+			Assert.Multiple(() =>  
 			{
 				Assert.That(issue.Id, Is.GreaterThan(0), "Issue ID should be greater than 0");
 				Assert.That(issue.Number, Is.GreaterThan(0), "Issue Number should be greater than 0");
 				Assert.That(issue.Title, Is.Not.Empty, "Issue Title should not be empty");
 				Assert.That(issue.Title, Is.EqualTo(title), "Issue Title should match with the title value");
-			});
+			}); // Multiple assert is testing more than one property of an object simultaneously
 
 			// Print issue number and store it for testing purposes
 			Console.WriteLine(issue.Number);
@@ -152,13 +152,14 @@ namespace TestGitHubApi
         public void Test_GetCommentById()
         {
 			// Arrange
-
+			int commentID = lastCreatedCommentId;
 
 			// Act
-
+			var comment = client.GetCommentById(repo, commentID);
 
 			// Assert
-
+			Assert.That(comment, Is.Not.Null, "Comment should not be null");
+			Assert.That(comment.Id, Is.EqualTo(commentID), "Comment ID should match with the commentID value");
 		}
 
 
@@ -166,26 +167,29 @@ namespace TestGitHubApi
         public void Test_EditCommentOnGitHubIssue()
         {
 			// Arrange
-
+			int commentID = lastCreatedCommentId;
+			string newBody = "The new comment body after successful update";
 
 			// Act
-
+			var commentEdit = client.EditCommentOnGitHubIssue(repo, commentID, newBody);
 
 			// Assert
-
+			Assert.That(commentEdit, Is.Not.Null, "Comment should not be null");
+			Assert.That(commentEdit.Id, Is.EqualTo(commentID), "Comment ID should match with the commentID value");
+			Assert.That(commentEdit.Body, Is.EqualTo(newBody), "Comment Body should match with the newBody value");
 		}
 
 		[Test, Order (9)]
         public void Test_DeleteCommentOnGitHubIssue()
         {
 			// Arrange
-
+			int commentID = lastCreatedCommentId;
 
 			// Act
-
+			bool isDeleted = client.DeleteCommentOnGitHubIssue(repo, commentID);
 
 			// Assert
-
+			Assert.That(isDeleted, Is.True, "The comment should be successfully deleted");
 		}
 
 
