@@ -1,4 +1,4 @@
-# Integration-Testing
+# Integration Testing
 Integration testing is a software testing technique that focuses on verifying the interactions and data exchange between different components or modules of a software application. The goal of integration testing is to identify any problems or bugs that arise when different components are combined and interact with each other.
 
 ## Details:
