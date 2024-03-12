@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\Projects\\GitHub\\Integration-Testing\\TestingGithubAPI-UsingRestSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AE3A357-B854-419D-8189-F697A598374A}|TestGitHubApi\\TestGitHubApi.csproj|d:\\projects\\github\\integration-testing\\testinggithubapi-usingrestsharp\\testgithubapi\\testgithubapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AE3A357-B854-419D-8189-F697A598374A}|TestGitHubApi\\TestGitHubApi.csproj|solutionrelative:testgithubapi\\testgithubapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B299296D-D0A0-4A49-8CCF-2BCE1D962B26}|RestSharpServices\\RestSharpServices.csproj|d:\\projects\\github\\integration-testing\\testinggithubapi-usingrestsharp\\restsharpservices\\restsharpservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B299296D-D0A0-4A49-8CCF-2BCE1D962B26}|RestSharpServices\\RestSharpServices.csproj|solutionrelative:restsharpservices\\restsharpservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AE3A357-B854-419D-8189-F697A598374A}|TestGitHubApi\\TestGitHubApi.csproj|d:\\projects\\github\\integration-testing\\testinggithubapi-usingrestsharp\\testgithubapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AE3A357-B854-419D-8189-F697A598374A}|TestGitHubApi\\TestGitHubApi.csproj|solutionrelative:testgithubapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B299296D-D0A0-4A49-8CCF-2BCE1D962B26}|RestSharpServices\\RestSharpServices.csproj|d:\\projects\\github\\integration-testing\\testinggithubapi-usingrestsharp\\restsharpservices\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B299296D-D0A0-4A49-8CCF-2BCE1D962B26}|RestSharpServices\\RestSharpServices.csproj|solutionrelative:restsharpservices\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B299296D-D0A0-4A49-8CCF-2BCE1D962B26}|RestSharpServices\\RestSharpServices.csproj|d:\\projects\\github\\integration-testing\\testinggithubapi-usingrestsharp\\restsharpservices\\models\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +15,20 @@
       "RelativeMoniker": "D:0:0:{B299296D-D0A0-4A49-8CCF-2BCE1D962B26}|RestSharpServices\\RestSharpServices.csproj|solutionrelative:restsharpservices\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B299296D-D0A0-4A49-8CCF-2BCE1D962B26}|RestSharpServices\\RestSharpServices.csproj|d:\\projects\\github\\integration-testing\\testinggithubapi-usingrestsharp\\restsharpservices\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B299296D-D0A0-4A49-8CCF-2BCE1D962B26}|RestSharpServices\\RestSharpServices.csproj|solutionrelative:restsharpservices\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B299296D-D0A0-4A49-8CCF-2BCE1D962B26}|RestSharpServices\\RestSharpServices.csproj|d:\\projects\\github\\integration-testing\\testinggithubapi-usingrestsharp\\restsharpservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B299296D-D0A0-4A49-8CCF-2BCE1D962B26}|RestSharpServices\\RestSharpServices.csproj|solutionrelative:restsharpservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE3A357-B854-419D-8189-F697A598374A}|TestGitHubApi\\TestGitHubApi.csproj|d:\\projects\\github\\integration-testing\\testinggithubapi-usingrestsharp\\testgithubapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE3A357-B854-419D-8189-F697A598374A}|TestGitHubApi\\TestGitHubApi.csproj|solutionrelative:testgithubapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE3A357-B854-419D-8189-F697A598374A}|TestGitHubApi\\TestGitHubApi.csproj|d:\\projects\\github\\integration-testing\\testinggithubapi-usingrestsharp\\testgithubapi\\testgithubapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE3A357-B854-419D-8189-F697A598374A}|TestGitHubApi\\TestGitHubApi.csproj|solutionrelative:testgithubapi\\testgithubapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "TestGitHubApi.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\TestingGithubAPI-UsingRestSharp\\TestGitHubApi\\TestGitHubApi.cs",
               "RelativeDocumentMoniker": "TestGitHubApi\\TestGitHubApi.cs",
               "ToolTip": "D:\\Projects\\GitHub\\Integration-Testing\\TestingGithubAPI-UsingRestSharp\\TestGitHubApi\\TestGitHubApi.cs",
               "RelativeToolTip": "TestGitHubApi\\TestGitHubApi.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T17:07:25.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\TestingGithubAPI-UsingRestSharp\\TestGitHubApi\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "TestGitHubApi\\GlobalUsings.cs",
@@ -63,11 +63,12 @@
               "RelativeToolTip": "TestGitHubApi\\GlobalUsings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T17:07:14.851Z"
+              "WhenOpened": "2024-03-10T17:07:14.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\TestingGithubAPI-UsingRestSharp\\RestSharpServices\\Program.cs",
               "RelativeDocumentMoniker": "RestSharpServices\\Program.cs",
@@ -75,7 +76,8 @@
               "RelativeToolTip": "RestSharpServices\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T17:05:40.915Z"
+              "WhenOpened": "2024-03-10T17:05:40.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,11 +89,12 @@
               "RelativeToolTip": "RestSharpServices\\Models\\Comment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T17:03:27.097Z"
+              "WhenOpened": "2024-03-10T17:03:27.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Issue.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\TestingGithubAPI-UsingRestSharp\\RestSharpServices\\Models\\Issue.cs",
               "RelativeDocumentMoniker": "RestSharpServices\\Models\\Issue.cs",
@@ -99,11 +102,12 @@
               "RelativeToolTip": "RestSharpServices\\Models\\Issue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T17:04:17.369Z"
+              "WhenOpened": "2024-03-10T17:04:17.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Label.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\TestingGithubAPI-UsingRestSharp\\RestSharpServices\\Models\\Label.cs",
               "RelativeDocumentMoniker": "RestSharpServices\\Models\\Label.cs",
@@ -111,17 +115,18 @@
               "RelativeToolTip": "RestSharpServices\\Models\\Label.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T17:04:40.341Z"
+              "WhenOpened": "2024-03-10T17:04:40.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RestSharpServices.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\TestingGithubAPI-UsingRestSharp\\RestSharpServices\\RestSharpServices.cs",
               "RelativeDocumentMoniker": "RestSharpServices\\RestSharpServices.cs",
               "ToolTip": "D:\\Projects\\GitHub\\Integration-Testing\\TestingGithubAPI-UsingRestSharp\\RestSharpServices\\RestSharpServices.cs",
               "RelativeToolTip": "RestSharpServices\\RestSharpServices.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAHEAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T17:05:43.275Z",
               "EditorCaption": ""

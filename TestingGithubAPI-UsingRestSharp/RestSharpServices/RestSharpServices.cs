@@ -23,6 +23,7 @@ namespace RestSharpServices
             this.client = new RestClient(options);
         }
 
+        // Methods interacting with Github's API:
         public List<Issue>?  GetAllIssues(string repo)
         {
             var request = new RestRequest($"{repo}/issues");

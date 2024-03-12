@@ -12,11 +12,11 @@ namespace TestGitHubApi
     public class TestGitHubApi
     {
         private GitHubApiClient client;
-        private static string repo;
-		private static string usernameGitHub = "replace_with_your_username";
-		private static string tokenGitHub = "replace_with_your_github_token";
-        private static int lastCreatedIssueNumber;
-		private static int lastCreatedCommentId;
+        private string repo;
+		private readonly string usernameGitHub = "replace_with_your_username"; // replace with a valid github username
+		private readonly string tokenGitHub = "replace_with_your_github_token"; // replace with a valid github token
+        private int lastCreatedIssueNumber;
+		private int lastCreatedCommentId;
 
 
 		[SetUp]
@@ -124,7 +124,7 @@ namespace TestGitHubApi
 				Assert.That(issue.Title, Is.EqualTo(title), "Issue Title should match with the title value");
 			}); // Multiple assert is testing more than one property of an object simultaneously
 
-			// Print issue number and store it for testing purposes
+			// Print issue number and store it for test purposes
 			Console.WriteLine(issue.Number);
 			lastCreatedIssueNumber = issue.Number;
 		}
@@ -142,7 +142,7 @@ namespace TestGitHubApi
 			// Assert
 			Assert.That(comment.Body, Is.EqualTo(body));
 
-			// Print comment ID and store it for testing purposes
+			// Print comment ID and store it for test purposes
 			Console.WriteLine(comment.Id);
 			lastCreatedCommentId = comment.Id;
 
