@@ -33,3 +33,12 @@ Build with:
 
 Integration testing with:
 - RestSharp and NUnit
+
+### 4. Eventmi-App:
+Application for event managing.
+
+Build with:
+- C#
+
+Integration testing with:
+- RestSharp and NUnit
