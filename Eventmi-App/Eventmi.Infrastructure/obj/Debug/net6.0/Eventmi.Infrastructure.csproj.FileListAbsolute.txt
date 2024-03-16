@@ -1,0 +1,15 @@
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.deps.json
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.runtimeconfig.json
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.dll
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.pdb
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.AssemblyInfo.cs
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.sourcelink.json
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.dll
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\refint\Eventmi.Infrastructure.dll
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.pdb
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.genruntimeconfig.cache
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Infrastructure\obj\Debug\net6.0\ref\Eventmi.Infrastructure.dll

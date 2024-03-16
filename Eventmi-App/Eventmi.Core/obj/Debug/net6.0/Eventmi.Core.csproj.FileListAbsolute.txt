@@ -1,0 +1,16 @@
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.deps.json
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.dll
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.pdb
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\bin\Debug\net6.0\Eventmi.Infrastructure.dll
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\bin\Debug\net6.0\Eventmi.Infrastructure.pdb
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.AssemblyReference.cache
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.AssemblyInfoInputs.cache
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.AssemblyInfo.cs
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.sourcelink.json
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\Eventmi..108DBD70.Up2Date
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.dll
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\refint\Eventmi.Core.dll
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.pdb
+D:\Projects\GitHub\Integration-Testing\Eventmi-App\Eventmi.Core\obj\Debug\net6.0\ref\Eventmi.Core.dll
