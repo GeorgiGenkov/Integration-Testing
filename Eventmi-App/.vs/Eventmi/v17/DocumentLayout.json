@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\GitHub\\Integration-Testing\\Eventmi-App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2431BB59-01D1-4656-91F1-673F1933F9B9}|Eventmi.Core\\Eventmi.Core.csproj|d:\\projects\\github\\integration-testing\\eventmi-app\\eventmi.core\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2431BB59-01D1-4656-91F1-673F1933F9B9}|Eventmi.Core\\Eventmi.Core.csproj|solutionrelative:eventmi.core\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89188826-1E5D-4573-B3B7-A7E942EF1654}|Eventmi.Tests\\Eventmi.Tests.csproj|d:\\projects\\github\\integration-testing\\eventmi-app\\eventmi.tests\\eventcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89188826-1E5D-4573-B3B7-A7E942EF1654}|Eventmi.Tests\\Eventmi.Tests.csproj|solutionrelative:eventmi.tests\\eventcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\Eventmi-App\\Eventmi.Core\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Eventmi.Core\\Services\\EventService.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\Integration-Testing\\Eventmi-App\\Eventmi.Core\\Services\\EventService.cs",
+              "RelativeToolTip": "Eventmi.Core\\Services\\EventService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:02:34.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EventControllerTests.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\Integration-Testing\\Eventmi-App\\Eventmi.Tests\\EventControllerTests.cs",
               "RelativeDocumentMoniker": "Eventmi.Tests\\EventControllerTests.cs",
               "ToolTip": "D:\\Projects\\GitHub\\Integration-Testing\\Eventmi-App\\Eventmi.Tests\\EventControllerTests.cs",
               "RelativeToolTip": "Eventmi.Tests\\EventControllerTests.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAABVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T19:40:47.485Z",
               "EditorCaption": ""

@@ -35,7 +35,7 @@ Integration testing with:
 - RestSharp and NUnit
 
 ### 4. Eventmi-App:
-Application for event managing.
+Application for event managing. The following methods are available: create/edit/delete events, get all events, get an event by ID.
 
 Build with:
 - C#
